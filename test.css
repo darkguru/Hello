@@ -3,6 +3,7 @@ body {
   color: #333;
   font-weight: bold;
   font-size: 20px;
-  width: 100px; }
+  width: 100px;
+  text-decoration: underline; }
 
 /*# sourceMappingURL=test.css.map */
