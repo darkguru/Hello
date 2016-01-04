@@ -1,5 +1,7 @@
 body {
   font: 100% Helvetica, sans-serif;
-  color: #333; }
+  color: #333;
+  font-weight: bold;
+  width: 0px; }
 
 /*# sourceMappingURL=test.css.map */
